@@ -17,7 +17,7 @@
 
 <body>
   <div class="container">
-    <div class="jumbotron pt-1">
+    <div class="jumbotron">
       <p><h1 class="text-center display-2 mt-1 mb-1">Dean Ween</p></h1>
       <h1 class="text-center"><p><small>AKA Michael "Mickey" Melchiondo, Jr.</small></p></h1>
       <p>
